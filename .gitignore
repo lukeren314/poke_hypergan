@@ -1,0 +1,9 @@
+*.png
+merged_data/
+pokemon/
+old_saves/
+samples/
+saves/
+conquest/
+gifs/
+*.json
